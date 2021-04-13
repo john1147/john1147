@@ -32,10 +32,6 @@
 ![PluralSight](https://img.shields.io/badge/Pluralsight-crimson?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![KA](https://img.shields.io/badge/Khan_Academy-00000A?style=for-the-badge&logo=khan-academy&logoColor=7fffd4)
 
-### 🤓 My values
-- 🍏 Beginner's (🔰) mindset and curiosity 
-- 🙌 Sharing anything I learned
-
 ## ⚡ Tech Stack 
 Here are a few things I've picked up along my learning journey.
 
@@ -61,11 +57,6 @@ Here are a few things I've picked up along my learning journey.
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
 
 ## GitHub Analytics Visualization 🔎
-
-### Language Stat
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john1147&layout=compact&langs_count=6&theme=cobalt">
-</p>
 
 ### GitHub Stat
 <p align="left">
