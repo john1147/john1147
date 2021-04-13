@@ -22,11 +22,6 @@
 <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### Spotify Playing 🎧 
-<p align="left">
-  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
-</p>
-
 ### Learning Platform 🎞
 
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
