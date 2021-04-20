@@ -53,8 +53,6 @@ Here are a few things I've picked up along my learning journey.
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 ![AE](https://img.shields.io/badge/After_Effects-peachpuff?style=for-the-badge&logo=adobe-after-effects&logoColor=000080)
 
-## Github Badge 🏅
-<a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
 
 ## GitHub Analytics Visualization 🔎
 
