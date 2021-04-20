@@ -1,21 +1,15 @@
 <h1 align="center"> 🖐️ Hi, I'm Joh Maharjan </h1>
 <h2 align="center">I'm </h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48232101/113013474-75f6d080-919b-11eb-83ed-d8ba2ab775a1.gif" width="40px">
-</p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=john1147&label=Visitors&color=9acd32&style=for-the-badge"> 
 </p>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
 
 
-- 🌱 I’m currently learning everything 📝
-- 🥅 2021 Goal: Being able to learn more than previous year 
-- 💬 Ask me about ... Anything
-- 😅 Fun Fact: I don't write code but I do follow code(Code Dysgraphia)  😁
 
-<h3 align="left"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
+
+<h3 align="left"> 📱 Connect with me</h3>
 <p align="left">
 <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
 <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
