@@ -26,8 +26,6 @@
 ![PluralSight](https://img.shields.io/badge/Pluralsight-crimson?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![KA](https://img.shields.io/badge/Khan_Academy-00000A?style=for-the-badge&logo=khan-academy&logoColor=7fffd4)
 
-## ⚡ Tech Stack 
-Here are a few things I've picked up along my learning journey.
 
 ### OS 💻
 
@@ -48,9 +46,7 @@ Here are a few things I've picked up along my learning journey.
 ![AE](https://img.shields.io/badge/After_Effects-peachpuff?style=for-the-badge&logo=adobe-after-effects&logoColor=000080)
 
 
-## GitHub Analytics Visualization 🔎
-
-### GitHub Stat
+### GitHub Stat 🔍
 <p align="left">
   <img src="https://github-contribution-stats.vercel.app/api/?username=john1147&layout=compact">
 </p>
